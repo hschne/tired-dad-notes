@@ -1,0 +1,47 @@
+/* STOLEN FROM https://frontend.horse/articles/thinking-outside-the-box-with-css-grid/ */
+
+:root {
+  --font-size-sm: 0.875rem;
+  --font-size-md: 1rem;
+  --font-size-lg: 1.2rem;
+  --font-size-xl: 1.44rem;
+  --font-size-2xl: 1.728rem;
+  --font-size-3xl: 2.074rem;
+  --font-size-4xl: 2.488rem;
+  --font-size-5xl: 2.986rem;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 auto;
+  max-width: 56rem;
+  font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+nav,
+footer {
+  display: flex;
+  flex-direction: row;
+  padding: 1rem 0;
+}
+
+nav {
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+}
+
+main {
+  font-size: var(--font-size-md);
+  line-height: 1.2rem;
+}
+
+main > p {
+  padding: 1rem 0;
+}
