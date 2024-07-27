@@ -36,11 +36,13 @@ Smol baby not know how do lots of things. Not even know how breathe properly, so
 
 Other peoples tell tired dad smol baby smell nice. This true sometimes, but lots of time baby make poo and then smell like dead racoon! Really not nice, silly peoples!  
 
-Smol baby smile sometimes and be very cute. But when happens, tired
-When baby smile be afraid. Be very afraid.
+Smol baby smile sometimes. This be very cute! But also mostly mean smol baby planning something, so very scary! Maybe giant dead racoon smelling poo again! What are you going to do now smol baby?!
 
-Peace and quiet are fragile
+Baby like to do strange things. Sometimes stare at random spots. Sometimes claw at your face (baby fingernails surprisingly sharp!). Sometimes randomly throw things on the ground. Tired dad figure baby be a lot like cat! Or maybe cat be like baby?
 
-Baby be like cat
+Tired dad sometimes worry that is gonna fuck up baby life. Then remember that everyone and everything is fucked up in some way. Is okay! Now tired dad just try to make sure smol baby is fucked up in a nice way.
 
-Life is a trauma, you are gonna fuck up
+Sometimes smol baby be real smol demon. Is cry all the time, is no sleep, is unbearable! Tired dad be ask "Why you so mean baby!?", maybe wonder if have baby was good idea even! Is okay to think that sometimes. Then smol baby do a big laugh in dad face and everything okay. I forgive you smol demon baby!
+
+Carry baby make pain, careful
+Baby learn new thing is best thing in world
