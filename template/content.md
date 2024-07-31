@@ -2,7 +2,7 @@
 title: "Tired Dad Notes"
 ---
 
-Tired dad hasn't slept in a while. But be tired make tired dad have funny thoughts and observations about life with smol baby. Tired dad write down here for himself and you to maybe have laugh (or bit despair).
+*Tired dad hasn't slept in a while. But be tired make tired dad have lots of deep think and observations about life with smol baby (deep think may also be onset of madness, tired dad not sure about that one). Now tired dad write down here for future himself. Also for you, to maybe have laugh (or bit despair, like tired dad).*
 
 ---
 
@@ -72,3 +72,6 @@ Carry baby around is hard work, make tired dad much back pain! Be careful tired 
 
 When smol baby grow into not-so-smol baby it learn many new thing. This good and make tired dad very happy. But also make life with baby harder. Smol baby suddenly grab everything and throw down and make kaput, oh no!
 
+---
+
+*Many thanks to you for read tired dad notes! Tired dad ~~steal from~~ be inspired by big brain and much funny [Grug Brained Developer](https://grugbrain.dev/), you should read too! Finally, many thanks to smol baby and tired mom for exist and make tired dad much happy (although tired) life !  *
