@@ -16,7 +16,7 @@ Sometimes when have smol baby tired dad be sad, and tired mom be too. Make tired
 
 Have baby is super scary for tired dad. Baby so smol and look so frail! Other peoples say "No worry, new baby very tough!" but maybe tired dad not wholly believe. 
 
-<svg fill="#000000" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+<svg fill="currentColor" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 	 width="800px" height="800px" viewBox="0 0 600.824 600.824"
 	 xml:space="preserve">
 <g>
@@ -74,4 +74,9 @@ When smol baby grow into not-so-smol baby it learn many new thing. This good and
 
 ---
 
-*Many thanks to you for read tired dad notes! Tired dad ~~steal from~~ be inspired by big brain and much funny [Grug Brained Developer](https://grugbrain.dev/), you should read too! Finally, many thanks to smol baby and tired mom for exist and make tired dad much happy (although tired) life !  *
+### Credits 
+
+*Many thanks to you for read tired dad notes! Tired dad ~~steal from~~ be inspired by big brain and much funny [Grug Brained Developer](https://grugbrain.dev/), you should read too! Finally, many thanks to smol baby and tired mom for exist and make tired dad much happy (although tired) life !*
+
+*You this like you let [tired dad know](https://x.com/hschnedlitz) or also take look on [big nerd site](https://github.com/hschne/tired-dad-notes).*
+

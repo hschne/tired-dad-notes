@@ -4,11 +4,22 @@
   --font-base-size: 1em;
   --font-scale-ratio: 1.3;
 
-  --color-text: oklch(20% 0.009 248.19);
-  --color-text-200: var(var(--color-text));
-  --color-text-300: oklch(30% 0.009 248.19);
-  --color-text-400: oklch(40% 0.009 248.19);
-  --color-background: #fff;
+  --color-grey-50: oklch(98.14% 0.001 286.38);
+  --color-grey-100: oklch(91.34% 0.003 286.35);
+  --color-grey-200: oklch(83.09% 0.006 286.28);
+  --color-grey-300: oklch(73.99% 0.009 286.19);
+  --color-grey-400: oklch(65.59% 0.012 286.07);
+  --color-grey-500: oklch(55.86% 0.014 285.95);
+  --color-grey-600: oklch(47.36% 0.011 285.97);
+  --color-grey-700: oklch(37.33% 0.008 285.98);
+  --color-grey-800: oklch(27.39% 0.005 286.03);
+  --color-grey-900: oklch(15.95% 0.002 286.16);
+  --color-grey-950: oklch(10.91% 0.003 286.03);
+
+  --color-text: var(--color-grey-900);
+  --color-background: var(--color-grey-50);
+  --color-link-active: var(--color-grey-700);
+  --color-link-hover: var(--color-grey-600);
 
   --font-size-sm: calc(var(--font-base-size) / var(--font-scale-ratio));
   --font-size-md: var(--font-base-size);
@@ -27,6 +38,15 @@
   --space-xl: calc(2 * var(--space-unit));
   --space-2xl: calc(3.25 * var(--space-unit));
   --space-3xl: calc(5.25 * var(--space-unit));
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-text: var(--color-grey-50);
+    --color-background: var(--color-grey-900);
+    --color-link-active: var(--color-grey-200);
+    --color-link-hover: var(--color-grey-300);
+  }
 }
 
 * {
@@ -50,6 +70,8 @@ main {
   line-height: 1.6;
   font-weight: 300;
 
+  color: var(--color-text);
+
   h1,
   p {
     padding: var(--space-sm) 0;
@@ -69,24 +91,12 @@ main {
 a {
   color: inherit;
 
-  &:active {
-    color: var(--color-text-300);
+  &:visited,
+  active {
+    color: var(--color-link-active);
   }
 
   &:hover {
-    color: var(--color-text-400);
-  }
-}
-
-footer {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-  padding: var(--space-md) 0;
-
-  svg {
-    margin: 0 auto;
-    margin: 0 var(--space-sm);
+    color: var(--color-link-hover);
   }
 }
