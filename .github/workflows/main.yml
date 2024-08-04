@@ -26,13 +26,11 @@ jobs:
         uses: docker://pandoc/core:latest
         with:
           args: "--standalone --template template/index.html template/content.md -o index.html"
-      - run: "ls -la"
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          name: page
           path: "."
       - name: Deploy to GitHub Pages
         id: deployment
