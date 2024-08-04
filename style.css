@@ -1,5 +1,14 @@
 /* STOLEN FROM https://frontend.horse/articles/thinking-outside-the-box-with-css-grid/ */
 
+@font-face {
+  font-family: "Rubik";
+  src:
+    url("/fonts/Rubik.woff2") format("woff2 supports variations"),
+    url("/fonts/Rubik.woff2") format("woff2-variations");
+  font-weight: 1 999;
+  font-display: optional;
+}
+
 :root {
   --font-base-size: 1em;
   --font-scale-ratio: 1.3;
