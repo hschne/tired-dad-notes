@@ -69,6 +69,7 @@ main {
   font-size: var(--font-size-lg);
   line-height: 1.6;
   font-weight: 300;
+  padding: 0 var(--space-sm);
 
   color: var(--color-text);
 
@@ -81,10 +82,9 @@ main {
     margin: var(--space-xl) 0;
   }
   svg {
-    display: block;
-    margin: 0 auto;
-    height: 5rem;
-    margin: var(--space-xl) 0;
+    width: 10rem;
+    text-align: center;
+    margin: var(--space-md) 0;
   }
 }
 
