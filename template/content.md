@@ -8,13 +8,13 @@ title: "Tired Dad Notes"
 
 ---
 
-Sometime tired dad really want something. Maybe want sleep (mostly!) or maybe want eat? Hah, smol baby no care what tired dad want! Is okay, tired dad learn be patient. Figure have baby make tired dad like buddhist monk - just let go of wants! Then fife with smol baby much easier and happier.
+When have smol baby tired dad be sad (and tired mom be too!). Make tired dad anxious, because tired parents supposed to be super happy with smol baby all the time, no?! Wrong! Is okay to be sad sometimes, silly.  
+
+Sometime tired dad really want something. Maybe want sleep (mostly!) or maybe want eat? Hah, smol baby no care what tired dad want! Is okay, tired dad learn be patient. Figure have baby make tired dad like buddhist monk - just let go of wants!
 
 Make baby welcome to world is hard, hard (very hard) work. Great job by tired mom! Tired dad learn that many thing can go wrong - and do (tired dad talk to other tired dad and mom and hear lots of thing go wrong all the time!). Make tired dad glad and very happy that smol baby healthy!
 
 Life with smol baby be very strange. Tired dad think that smol baby be very strange and weird in lots of ways. Smol baby have weird hair, weird skin or weird toes?! Is maybe kaput!? Tired dad not know. Then tired dad remember no panic! Baby weird is okay and (mostly) normal.
-
-When have smol baby tired dad be sad (and tired mom be too!). Make tired dad anxious, because tired parents supposed to be super happy with smol baby all the time, no?! Wrong! Is okay to be sad sometimes, silly.  
 
 Handle smol baby is scary for tired dad. Baby so very smol and look so frail! Other peoples say "No worry, new baby very tough!" but maybe tired dad not wholly believe. 
 
