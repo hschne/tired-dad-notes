@@ -57,9 +57,9 @@ When have smol baby tired dad sometimes be anxious or stressed. Is okay! Tired d
 
 Smol baby not know how do lots of things. Not even know how breathe properly, so make lots of weird noise! Maybe like piglet or sick birdy? Very strange! But even stranger when weird noise stop! What wrong, maybe smol baby stop breathe?! No worry, yes baby still breathe silly tired dad!
 
-Other peoples tell tired dad smol baby smell nice. This true sometimes. But ~~sometime~~ lots of time baby make poo and then smell like dead racoon! Really not nice! Silly other peoples have weird nose, maybe.
+Other peoples tell tired dad smol baby smell nice. This true sometimes. But ~~sometime~~ lots of time baby make poo and then smell like dead racoon! Really not nice! Tired dad think other peoples have weird nose, maybe.
 
-Smol baby smile sometimes. This be very cute! But also mostly mean smol baby planning something, so very scary! Maybe giant dead racoon smelling poo again! What are you going to do now smol baby?!
+Carry baby around is hard work, make tired dad much back pain. Be careful, tired dad!
 
 <div style="text-align:center;">
 <svg role="img" viewBox="0 0 134.165 119.946" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" style="fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;">
@@ -72,15 +72,15 @@ Smol baby smile sometimes. This be very cute! But also mostly mean smol baby pla
 </svg>
 </div>
 
-Baby like to do strange things. Sometimes stare at random spots. Sometimes claw at your face (baby fingernails surprisingly sharp!). Sometimes randomly throw things on the ground. Tired dad figure baby be a lot like cat! Or maybe cat be like baby?
+Baby like to do strange things. Sometimes stare at random spots for long time. Sometimes claw at your face (baby fingernails surprisingly sharp!). Sometimes randomly throw things on the ground. Tired dad figure baby be a lot like cat! Or maybe cat be like baby?
 
-Tired dad sometimes worry that is gonna fuck up baby life. Then remember that everyone and everything is fucked up in some way. Is okay! Now tired dad just try to make sure smol baby is fucked up in a nice way.
+Tired dad sometimes worry that is gonna screw up baby life. Then remember that everyone and everything is screw up in some way (especially tired dad). Is okay! Now tired dad just try to make sure smol baby is screw up in nice way!
 
-Sometimes smol baby be real smol demon. Is cry all the time, is no sleep, is unbearable! Tired dad be ask "Why you so mean baby!?", maybe wonder if have baby was good idea even (is okay to think that sometimes). Then smol baby do a big laugh in dad face and suddenly everything okay again! Tired dad forgive you smol demon baby!
+Sometimes smol baby be smol demon! Is cry all the time, is no sleep, is unbearable! Tired dad be ask "Why you so mean baby!?". Maybe wonder if have baby was good idea even (is okay to think that sometimes!). Then smol baby do big laugh in dad face - everything okay again! Tired dad forgive you smol demon baby!
 
-Carry baby around is hard work, make tired dad much back pain! Be careful tired dad!
+Smol baby smile sometimes. This be very cute! But also mean smol baby plan something. Tired dad no know what. Maybe hit tired dad in face? Maybe throw up? Maybe make giant dead racoon smelling poo again! What are you going to do smol baby?!
 
-When smol baby grow into not-so-smol baby it learn many new thing. This good and make tired dad very happy. But also make life with baby harder. Smol baby suddenly grab everything and throw down and make kaput, oh no!
+When smol baby grow up to not-so-smol baby it learn many new thing. This good and make tired dad very happy! But also make life hard. Smol baby run around! Smol baby grab everything and throw to ground and make kaput, oh no! Tired dad try stay calm but is very hard!
 
 ---
 
@@ -91,4 +91,3 @@ When smol baby grow into not-so-smol baby it learn many new thing. This good and
 *Finally, many thanks to smol baby and tired mom for exist and make tired dad much happy (although tired) life !*
 
 *You like this you let [tired dad know](https://x.com/hschnedlitz), or also take look on how make this on [big nerd site](https://github.com/hschne/tired-dad-notes).*
-
