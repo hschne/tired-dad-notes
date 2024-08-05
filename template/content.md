@@ -2,19 +2,21 @@
 title: "Tired Dad Notes"
 ---
 
-*Tired dad hasn't slept in a while. But be tired make tired dad have lots of deep think and observations about life with smol baby (deep think may also be onset of madness, tired dad not sure about that one). Now tired dad write down here for future himself. Also for you, to maybe have laugh (or bit despair, like tired dad).*
+*Tired dad be new dad! Smol baby be cute, but no sleep much - so tired dad no sleep much. But is okay! Be tired make tired dad have lots of deep think about life with smol baby (deep think may also be onset of madness, tired dad not sure about that one).
+
+Tired dad write down to not forget! Also write down for you, to maybe have laugh (or maybe also despair, like tired dad sometime).*
 
 ---
 
-Sometimes tired dad feel like want something. Maybe want sleep or maybe want eat? Hah, smol baby no care what tired dad want! Is okay, tired dad learn be patient. Figure have baby make tired dad like buddhist monk. Life with smol baby much happier when let go of wants!
+Sometime tired dad really want something. Maybe want sleep (mostly!) or maybe want eat? Hah, smol baby no care what tired dad want! Is okay, tired dad learn be patient. Figure have baby make tired dad like buddhist monk - just let go of wants! Then fife with smol baby much easier and happier.
 
-Make baby welcome to world is hard, hard work, very good job by tired mom! Many thing can go wrong - and do (tired dad talk to other tired dad and mom and learn lots of thing go wrong all the time!). Make tired dad glad and very happy that smol baby healthy!
+Make baby welcome to world is hard, hard (very hard) work. Great job by tired mom! Tired dad learn that many thing can go wrong - and do (tired dad talk to other tired dad and mom and hear lots of thing go wrong all the time!). Make tired dad glad and very happy that smol baby healthy!
 
-Life with smol baby be very strange, because smol baby very weird in lots of ways. Maybe baby have weird hair, weird skin or weird toes?! Tired dad remember to not panic! Baby weird is okay and (mostly) normal.
+Life with smol baby be very strange. Tired dad think that smol baby be very strange and weird in lots of ways. Smol baby have weird hair, weird skin or weird toes?! Is maybe kaput!? Tired dad not know. Then tired dad remember no panic! Baby weird is okay and (mostly) normal.
 
-Sometimes when have smol baby tired dad be sad, and tired mom be too. Make tired dad anxious, because tired parents supposed to be super happy with smol baby all the time, no?! Wrong! Is okay to be sad sometimes, silly.  
+When have smol baby tired dad be sad (and tired mom be too!). Make tired dad anxious, because tired parents supposed to be super happy with smol baby all the time, no?! Wrong! Is okay to be sad sometimes, silly.  
 
-Have baby is super scary for tired dad. Baby so smol and look so frail! Other peoples say "No worry, new baby very tough!" but maybe tired dad not wholly believe. 
+Handle smol baby is scary for tired dad. Baby so very smol and look so frail! Other peoples say "No worry, new baby very tough!" but maybe tired dad not wholly believe. 
 
 <div style="text-align:center;">
 <svg role="img" viewBox="0 0 135.165 101.425" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" style="opacity:1;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;">
@@ -27,15 +29,13 @@ Have baby is super scary for tired dad. Baby so smol and look so frail! Other pe
 
 Tired dad make very good plans and organize well. If forget something with smol baby then have angry baby really quick, must not happen! Still no matter because tired dad be tired and even good plan sometimes fail. Is okay tired dad, no get angry!
 
-Baby sometimes act weird and tired dad make up stories for why baby do thing. Baby cry, so tired dad think maybe because see something scary? Maybe because not happy? Maybe because HATE tired dad?! Then tired dad stop and remember: No make up make believe stories! Baby be baby and do baby things because is baby, silly!
+Baby sometimes act weird and tired dad make up stories for why baby do thing. Baby cry, so tired dad think maybe because see something scary? Maybe because not happy? Maybe because HATE tired dad?! Then tired dad stop and remember: No make up stories! Baby be baby and do baby things - because is baby, silly!
 
-With smol baby, other peoples come talk to tired dad. Tell tired dad you do this with baby, otherwise bad tired dad (also tell this to tired mum). Tired dad very confuse by those people, but mostly try not to care. Remember, baby be baby from tired dad and tired mum, so tired parent know best what smol baby need!
+When have smol baby, other peoples come talk to tired dad. Tell tired dad you do this with baby, otherwise bad tired dad (they also tell this to tired mum!). Tired dad very confuse by those people and mostly ignore. Baby be baby from tired dad and tired mum, so tired parent know best what smol baby need! Silly peoples.
 
-Tired dad sometimes get confuse about baby and want help. If very tired and very confuse aks collective hivemind Internetz! This sound good but is bad. Very bad. Now tired dad be very very confuse and still no help!
+Tired dad sometimes get confuse about baby and want help. If very tired and very confuse tired dad ask collective hivemind Internetz! This bad idea. Very bad bad idea! Internetz say many strange thin. Now tired dad be very very confuse and still no help!
 
-Tired dad sometimes worry that smol baby no longer breathe. Silly, because every time tired dad check smol baby still breathe. Smol baby tough! Still, maybe tired dad check one more time, just for sure.
-
-Sometimes tired dad very stressed out. Is okay, taking care of baby is stressful! Tired dad remember to also take care of himself so can take care of smol baby. 
+Sometimes tired dad very stressed out. Is okay, taking care of baby is stressful! But tired dad remember to take care of himself also. If tired dad take care of himself tired dad make better take care of smol baby! 
 
 <div style="text-align:center;">
 <svg role="img" viewBox="0 0 135.467 135.467" xml:space="preserve" xmlns="http://www.w3.org/2000/svg"
@@ -49,15 +49,15 @@ style="fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-
 </svg>
 </div>
 
-Before baby, many peoples tell (not yet tired) dad "You watch, Baby grow up quickly!". (Not yet tired) dad laugh, think people silly. Now tired dad know, self is silly! Baby grow up really really quickly, is like new baby every day sometimes!
+Many peoples tell tired dad "You watch, Baby grow up quickly!". Tired dad laugh, think people silly. Now tired dad know, self is silly! Baby grow up really really quickly, is like new baby every day sometimes!
 
-Tired dad like as for help with big brain doctor. Is good help, doctor say tired dad do X! Good advice! But then, tired dad also ask big brain midwife for help. Midwife say, tired dad silly, never do X, do Y instead! Now tired dad not only tired but also super confuse. Figure, maybe both X and Y is okay, so do whatever works best for himself and baby!
+Tired dad like ask for help with big brain doctor. Is good help, doctor say tired dad do X! Good advice! But then, tired dad also ask big brain midwife for help. Midwife say, tired dad silly, never do X, do Y instead! Now tired dad not only tired but also super confuse. Figure, maybe both X and Y is okay, so do whatever works best for himself and baby!
 
-With smol baby, really easy to be anxious or stressed. Lots of new thing to learn! Must remind self to stay calm, because no help if anxious or angry! But is very hard sometimes!
+When have smol baby tired dad sometimes be anxious or stressed. Is okay! Tired dad must learn lots of new thing. But must also remind self to stay calm. No good if anxious or angry (still, is very hard sometimes).
 
 Smol baby not know how do lots of things. Not even know how breathe properly, so make lots of weird noise! Maybe like piglet or sick birdy? Very strange! But even stranger when weird noise stop! What wrong, maybe smol baby stop breathe?! No worry, yes baby still breathe silly tired dad!
 
-Other peoples tell tired dad smol baby smell nice. This true sometimes, but lots of time baby make poo and then smell like dead racoon! Really not nice, silly peoples!  
+Other peoples tell tired dad smol baby smell nice. This true sometimes. But ~~sometime~~ lots of time baby make poo and then smell like dead racoon! Really not nice! Silly other peoples have weird nose, maybe.
 
 Smol baby smile sometimes. This be very cute! But also mostly mean smol baby planning something, so very scary! Maybe giant dead racoon smelling poo again! What are you going to do now smol baby?!
 
@@ -84,9 +84,11 @@ When smol baby grow into not-so-smol baby it learn many new thing. This good and
 
 ---
 
-### Credits 
+## Credits 
 
-*Many thanks to you for read tired dad notes! Tired dad ~~steal from~~ be inspired by big brain and much funny [Grug Brained Developer](https://grugbrain.dev/), you should read too! Finally, many thanks to smol baby and tired mom for exist and make tired dad much happy (although tired) life !*
+Many thanks to you for read tired dad notes! Tired dad ~~steal from~~ be inspired by big brain and much funny [Grug Brained Developer](https://grugbrain.dev/) - you should read too!*
 
-*You this like you let [tired dad know](https://x.com/hschnedlitz) or also take look on [big nerd site](https://github.com/hschne/tired-dad-notes).*
+*Finally, many thanks to smol baby and tired mom for exist and make tired dad much happy (although tired) life !*
+
+*You like this you let [tired dad know](https://x.com/hschnedlitz), or also take look on how make this on [big nerd site](https://github.com/hschne/tired-dad-notes).*
 
