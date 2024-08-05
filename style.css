@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: "Rubik";
-  src: url("/fonts/Rubik.woff2") format("woff2");
+  src: url("fonts/Rubik.woff2") format("woff2");
   font-weight: 1 999;
   font-display: optional;
 }
