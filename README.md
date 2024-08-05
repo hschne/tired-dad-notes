@@ -1,4 +1,10 @@
+<div align="center">
+
 # Tired Dad Notes
+
+<img alt="logo" src="logo.png" width="300px" height="auto">
+
+</div.
 
 Tired dad be new dad! Smol baby be cute, but no sleep much - so tired dad no sleep much. But is okay! Be tired make tired dad have lots of deep think about life with smol baby (deep think may also be onset of madness, tired dad not sure about that one). Tired dad write down to not forget! Also write down for you, to maybe have laugh (or maybe also despair, like tired dad sometime)!
 
