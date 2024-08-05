@@ -2,9 +2,9 @@
 title: "Tired Dad Notes"
 ---
 
-*Tired dad be new dad! Smol baby be cute, but no sleep much - so tired dad no sleep much. But is okay! Be tired make tired dad have lots of deep think about life with smol baby (deep think may also be onset of madness, tired dad not sure about that one).
+*Tired dad be new dad! Smol baby be cute, but no sleep much - so tired dad no sleep much. But is okay! Be tired make tired dad have lots of deep think about life with smol baby (deep think may also be onset of madness, tired dad not sure about that one).*
 
-Tired dad write down to not forget! Also write down for you, to maybe have laugh (or maybe also despair, like tired dad sometime).*
+*Tired dad write down to not forget! Also write down for you, to maybe have laugh (or maybe also despair, like tired dad sometime).*
 
 ---
 
@@ -86,7 +86,7 @@ When smol baby grow into not-so-smol baby it learn many new thing. This good and
 
 ## Credits 
 
-Many thanks to you for read tired dad notes! Tired dad ~~steal from~~ be inspired by big brain and much funny [Grug Brained Developer](https://grugbrain.dev/) - you should read too!*
+*Many thanks to you for read tired dad notes! Tired dad ~~steal from~~ be inspired by big brain and much funny [Grug Brained Developer](https://grugbrain.dev/) - you should read too!*
 
 *Finally, many thanks to smol baby and tired mom for exist and make tired dad much happy (although tired) life !*
 
